@@ -15,5 +15,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://yourusername.github.io/g202-sms-app"
+  "homepage": "https://boikonur.github.io/GateController_G20X"
 }

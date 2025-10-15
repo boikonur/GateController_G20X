@@ -35,7 +35,7 @@ A simple React web app that allows you to control your G202 GSM gate opener via 
    npm run deploy
    ```
 
-5. Visit: https://yourusername.github.io/g202-sms-app
+5. Visit: https://yourusername.github.io/GateController_G20X
 
 ## 📱 Usage
 - Open the web app on your iPhone or Android phone.
